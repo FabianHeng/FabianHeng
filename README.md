@@ -5,8 +5,8 @@
 
 ### 🔗 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabianheng/)
-- 🌐 [Portfolio Website](https://fabianheng.github.io/me/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabianheng/){:target="_blank"}
+- 🌐 [Portfolio Website](https://fabianheng.github.io/me/){:target="_blank"}
 - 📫 Email me: fabian.heng@icloud.com
 
 ---
