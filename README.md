@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋. I'm Fabian.</h1>
-<h3 align="left">A Computer Science Undergradaute in NUS</h3>
+<h3 align="left">A Computer Science Undergraduate in NUS</h3>
 
 ---
 
